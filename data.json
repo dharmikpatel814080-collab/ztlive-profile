@@ -50,8 +50,8 @@
       {
         "name": "ZT SHOP",
         "link": "https://discord.gg/gZKZQQdGMB",
-        "icon": "fab fa-website",
-        "gradient": ["#5865f2", "#4752c4"],
+        "icon": "fab fa-GlobewithMeridians",
+        "gradient": ["#00eaff", "#ff0000"],
         "glow": "rgba(88,101,242,0.35)"
       },
       {
