@@ -1,12 +1,12 @@
 {
   "profile": {
-    "name": "T U Z H I 🥀",
-    "username": "tuzhicodes",
-    "nickname": "TuZhi Codes",
-    "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHXDSo69quh8j6IsBuJ4zIW4yyQ3EFhlqVCkdTCA20DFp5rQuBbcY9EXBWD_1ATGvH0XDRiDU4DRXQy12P9EpexR2lEzXDF9RmzMnn1ti8ZNGIBJPIllIqY9vcv4u5WFYiK4dgWN7N9TyW7oy7KLaVT8LIkRfnLBr5IAfhnPiNop-rQLkz5gNHcKhyl-QO/s1024/file_00000000df18720881374740bf634620.png",
-    "banner": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPe_P3kVBwu8Z5WdZxDRFgce6ylIBVIYRfcpuhGVrG9tShMJWerTMU8goc3OEtpA5Zs-P8Oh832Vb6en1BCM6rqMdT4jm9KtFZv3bgmOJYp6Knq6TQ_uV9pvDhA0XC2ponyB4rqztXOb2BEe41R3o77T8m5Lh6JS73H2_e5kOd7ND_SajWMswzwgmyqhtr/s736/229f824d9c404edc56b7fd1efe9a4df9_1.jpg",
+    "name": "Z T L I V E 🥀",
+    "username": "ztlive1",
+    "nickname": "ZtLive Codes",
+    "avatar": "https://media.discordapp.net/attachments/1455095477082259510/1493537899398955098/IMG_20260320_115514_754.webp?ex=69df550f&is=69de038f&hm=583fbd0e21cd9afe7f7a1916544c083c4746b3a3ba2a0963f4c80bd7e9dc69e7&=&format=webp&width=873&height=873",
+    "banner": "https://media.discordapp.net/attachments/1455095477082259510/1493537898837053480/1773992130422.png?ex=69df550f&is=69de038f&hm=eef73fe9ed3adc103cb3788f2da4b96342e03c3e9b33c55ff18ba6af387996d3&=&format=webp&quality=lossless&width=1570&height=547",
     "status": {
-      "text": "I Am TuZhi Codes ♥️",
+      "text": "I Am ZtLive Codes ♥️",
       "type": "dnd"
     },
     "badges": [
@@ -48,29 +48,22 @@
     ],
     "buttons": [
       {
-        "name": "Discord Support",
-        "link": "https://discord.gg/gZKZQQdGMB",
+        "name": "Zt Shop",
+        "link": "https://ztshop-bh7y.vercel.app/",
         "icon": "fab fa-discord",
         "gradient": ["#5865f2", "#4752c4"],
         "glow": "rgba(88,101,242,0.35)"
       },
       {
         "name": "Discord Community",
-        "link": "https://discord.gg/ERJdY5HYgx",
+        "link": "https://discord.gg/PRBpnwDrA9",
         "icon": "fab fa-discord",
         "gradient": ["#5865f2", "#4752c4"],
         "glow": "rgba(88,101,242,0.35)"
       },
       {
-        "name": "GitHub",
-        "link": "https://github.com/tuzhicodes",
-        "icon": "fab fa-github",
-        "gradient": ["#5865f2", "#4752c4"],
-        "glow": "rgba(88,101,242,0.35)"
-      },
-      {
         "name": "YouTube",
-        "link": "https://youtube.com/@TuZhiCodes",
+        "link": "https://youtube.com/@ZTLIVE1",
         "icon": "fab fa-youtube",
         "gradient": ["#ff0000", "#cc0000"],
         "glow": "rgba(255,0,0,0.35)"
@@ -79,6 +72,6 @@
     
     "about": "🐰 A Dreamer Who Never Sleeps !! 🐰\nDeveloper | Gamer | Content Creator",
     "decoration": { "file": "rainbow-ring" },
-    "footer": "© 2025 Made with ❤️ TuZhi Codes"
+    "footer": "© 2025 Made with ❤️ ZTLIVE Codes"
   }
 }
